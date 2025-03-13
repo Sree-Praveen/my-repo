@@ -3,8 +3,11 @@ Project Overview
 Target Audience
 
 •	Institutional Investors: Hedge funds and asset management firms can use predictions to inform trading strategies and portfolio construction.
+
 •	Retail Investors: Individual traders can leverage forecasts to make informed decisions about buying or selling cryptocurrencies.
+
 •	Cryptocurrency Exchanges: Platforms like Binance and Coinbase can use volatility predictions to improve liquidity management.
+
 •	Fintech Companies: Firms offering cryptocurrency-related services can integrate predictive analytics into their platforms to enhance customer engagement.
 
 Data Description
